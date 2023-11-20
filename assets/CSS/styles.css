@@ -141,7 +141,7 @@ h3 {
 .hide {
   display: none;
 }
-@media screen and (width: 1400px) {
+@media screen and (width: 1440px) {
   body {
     padding: 18.5% 24%;
   }
