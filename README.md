@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Article preview component](https://sparkling-strudel-961baa.netlify.app/)
+- Live Site URL: [Article preview component](https://655bdbd4f5ccb6377a49019f--steady-axolotl-d35feb.netlify.app/)
 
 ### Built with
 
